@@ -1,0 +1,25 @@
+{
+    "accounts": [
+        {
+            "id": 1,
+            "userId": 1,
+            "name": "Main",
+            "currency": "EUR",
+            "balance": 150.55
+        },
+        {
+            "id": 2,
+            "userId": 1,
+            "name": "Savings",
+            "currency": "USD",
+            "balance": 3750.20
+        },
+        {
+            "id": 3,
+            "userId": 2,
+            "name": "Travel",
+            "currency": "EUR",
+            "balance": 50.55
+        }
+    ]
+}
